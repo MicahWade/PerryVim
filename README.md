@@ -27,7 +27,7 @@ PerryVim is a personalized Neovim configuration built on top of [LazyVim](https:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/PerryVim.git ~/.config/nvim
+https://github.com/MicahWade/PerryVim.git ~/.config/nvim
 nvim --headless +Lazy! +qall
 ```
 
